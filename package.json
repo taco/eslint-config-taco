@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-taco",
+  "version": "1.0.0",
+  "description": "ESlint rules for Taco",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taco/eslint-config-taco.git"
+  },
+  "author": "Travis Johnson <tvjohnson@gmail.com>"
+}
